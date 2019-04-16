@@ -1,2 +1,4 @@
 # Projeto-FP-1819
-Project for the discipline Programming Foundations.
+Project of Programming Foundations course.
+
+This project is a minimalistic version of the game "Hello Quantum", available online and for mobile plataforms.
